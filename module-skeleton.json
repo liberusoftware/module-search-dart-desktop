@@ -1,0 +1,25 @@
+{
+  "repository": "module-search-dart-desktop",
+  "capabilityKey": "liberusoftware/search",
+  "presentation": "dart-desktop",
+  "package": "module_search_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/boilerplate/nextjs/search.md",
+  "presentationPlan": "projects/boilerplate/features/search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
